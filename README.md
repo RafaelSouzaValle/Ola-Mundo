@@ -1,5 +1,5 @@
 # Olá, Mundo
 
- Repositório referente a aprendizado de GitHub
+ Repositório referente a aprendizado de **GitHub**
  
- Linha para teste de alteração
+ Linha para *teste* de alteração
